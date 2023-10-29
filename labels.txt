@@ -1,0 +1,6 @@
+0 Apple__healthy
+1 Cherry__healthy
+2 Chili__healthy
+3 Coffee_healthy
+4 Cucumber_healthy
+5 Lemon__healthy
